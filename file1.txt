@@ -19,3 +19,7 @@ To commit files to the remote repo (git commit -m 'message')
 To keep a file untrack by git (create a gitignore file qnd write the name of the file in the gitignore file. NB file should be uncommitted and unstaged)
 
 To connect the local repo branch to a remote repo branch and push(git push --set-upstream origin master)
+
+To create a new branch (git branch branch_name)
+
+To switch to a branch (git checkout branch_name)
