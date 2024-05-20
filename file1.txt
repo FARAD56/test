@@ -1,0 +1,13 @@
+initialize local repository (git init)
+
+To connect local repo and the remote repo (git remote add origin URL)
+
+To check the status of connection of local repo and remote repo (git remote -v)
+
+To 
+
+Staging a file (git add file_name.ext)
+
+unstage a file (git restore --staged file_name.ext)
+
+check which files are tracked(staged) and which are not (git status)
