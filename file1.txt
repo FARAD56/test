@@ -1,0 +1,21 @@
+initialize local repository (git init)
+
+To connect local repo and the remote repo (git remote add origin URL)
+
+To check the status of connection of local repo and remote repo (git remote -v)
+
+To pull data from the remote repository(git pull origin main)
+
+Staging a file (git add file_name.ext)
+
+Staging all files (git add .)
+
+unstage a file (git restore --staged file_name.ext)
+
+check which files are tracked(staged) and which are not (git status)
+
+To commit files to the remote repo (git commit -m 'message')
+
+To keep a file untrack by git (create a gitignore file qnd write the name of the file in the gitignore file. NB file should be uncommitted and unstaged)
+
+To connect the local repo branch to a remote repo branch and push(git push --set-upstream origin master)
